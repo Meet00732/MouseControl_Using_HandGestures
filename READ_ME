@@ -1,0 +1,5 @@
+An OpenCV project that will let you control mouse with the help of hand gestures.
+
+Make sure You have these modules installed
+-> cv2
+-> mediapipe
